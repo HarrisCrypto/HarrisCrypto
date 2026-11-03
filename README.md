@@ -2,7 +2,7 @@
 
 **Websites for small businesses — built to make the phone ring.**
 
-I'm a US-based website builder, and the founder of
+I'm a US-based website builder in Cushing, Oklahoma, and the founder of
 [OplyAI](https://oplyai.com), a 24/7 AI phone receptionist for small businesses.
 I build sharp, mobile-first websites with an AI-assisted workflow, finished and
 quality-checked by hand. My specialty is local service businesses — the kind
@@ -29,10 +29,10 @@ stream-asset packs for GTA VI creators.
 Fictional demonstration businesses, built to show the exact packages I sell —
 mobile-first, click-to-call on every screen, contact form, service-area page:
 
-- **Apex Plumbing** — 5-page plumber website
-- **Summit Air** — 5-page HVAC website
-- **Ironclad Roofing** — 5-page roofing website
-- **Ember & Oak** — coffee shop website
+- **[Apex Plumbing](https://harriscrypto.github.io/apex-plumbing/)** — 5-page plumber website
+- **[Summit Air](https://harriscrypto.github.io/summit-air/)** — 5-page HVAC website
+- **[Ironclad Roofing](https://harriscrypto.github.io/ironclad-roofing/)** — 5-page roofing website
+- **[Ember & Oak](https://harriscrypto.github.io/ember-oak-coffee/)** — coffee shop website
 
 ## Work with me
 
