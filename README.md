@@ -1,16 +1,28 @@
-## Hi there 👋
+# Harris — AI Builder & Vibe Coder
 
-<!--
-**HarrisCrypto/HarrisCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi — I'm Harris. I build AI-powered apps, guides, and storefronts with a vibe-coding workflow: fast prototypes, real products, and clean, usable design.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI apps & agents** — practical tools that automate work and answer questions.
+- **Guides & playbooks** — step-by-step systems people can actually follow.
+- **Storefronts & brands** — small-business sites with a clear offer and a clean look.
+
+## Featured work
+
+- **Oplyai.com** — AI platform and website build.
+- **Union-Jack-Rebuild-** — Rebuild project.
+- **aifrontdeskguide** — AI front-desk guide.
+- **tradecrmguide** — Trade CRM guide.
+- **burrandbrew** — Coffee brand / storefront.
+- **neoncoastsupply** — Coastal supply storefront.
+
+## Currently
+
+- Building and shipping AI projects in public.
+- Turning prototypes into polished, usable products.
+
+## Connect
+
+- GitHub: [@HarrisCrypto](https://github.com/HarrisCrypto)
+- Explore the pinned repos below to see the work.
