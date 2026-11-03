@@ -15,10 +15,6 @@ receptionist service for small businesses: plans, demo line, booking flow.
 - **[Union Jack Rebuild](https://harriscrypto.github.io/Union-Jack-Rebuild-/)** —
 a complete website rebuild for a British car restoration shop in San Martin,
 CA. Editorial design, services, process, FAQ, and a quote-request flow.
-- **[Front Desk Guide](https://aifrontdeskguide.com)** — an independent
-review and comparison publication covering AI receptionist tools.
-- **[Trade CRM Guide](https://tradecrmguide.com)** — CRM and marketing tool
-reviews for home-service trades.
 - **[Burr & Brew](https://burrandbrew.com)** — coffee gear gift guides
 and reviews.
 - **[Neon Coast Supply Co.](https://neoncoastsupply.co)** — storefront for
