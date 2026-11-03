@@ -2,7 +2,7 @@
 
 **Websites for small businesses — built to make the phone ring.**
 
-I'm a US-based website builder in Cushing, Oklahoma, and the founder of
+I'm a US-based website builder, and the founder of
 [OplyAI](https://oplyai.com), a 24/7 AI phone receptionist for small businesses.
 I build sharp, mobile-first websites with an AI-assisted workflow, finished and
 quality-checked by hand. My specialty is local service businesses — the kind
